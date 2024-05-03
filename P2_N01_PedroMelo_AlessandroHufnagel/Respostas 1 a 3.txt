@@ -1,0 +1,4 @@
+Pedro Melo e Alessandro Hufnagel
+1) A
+2) E
+3) A sobrescrita de métodos é quando várias classes herdam um mesmo método da super classe, com mesma assinatura (tipos e quantidade de parâmetros). Já a sobrecarga de métodos possui diversos métodos iguais, porém que esperam receber paramêtros de tipos e em quantidades diferentes.
